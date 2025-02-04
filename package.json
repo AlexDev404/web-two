@@ -1,0 +1,11 @@
+{
+  "name": "web-one",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "gow": "~/go/bin/gow"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
